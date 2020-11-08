@@ -1,4 +1,6 @@
 var pages = [
+  "https://minimalisthousedesign77.blogspot.com/2020/11/4-makanan-yang-menunjang-jika-anda.html",
+  "https://minimalisthousedesign77.blogspot.com/2020/11/tips-mudah-mencegah-penuaan-dini-yang.html",
 "https://minimalisthousedesign77.blogspot.com/2020/10/10-manfaat-cengkeh-bagi-kecantikan-yang.html",
 "https://minimalisthousedesign77.blogspot.com/2020/10/ubahlah-5-sikap-ini-sebelum-kamu.html",
 "https://minimalisthousedesign77.blogspot.com/2020/10/tips-miliki-mata-jernih-secara-alami.html",
