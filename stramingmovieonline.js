@@ -17,6 +17,7 @@ var pages = [
 "https://stramingmovieonline.blogspot.com/2020/05/snowpiercer.html",
 "https://stramingmovieonline.blogspot.com/2020/03/klik-bait.html",
 "https://stramingmovieonline.blogspot.com/2020/03/dog-funny.html",
+ "https://stramingmovieonline.blogspot.com/2020/11/dampak-buruk-tetap-bertahan-dengan.html",
 
 
 ];
