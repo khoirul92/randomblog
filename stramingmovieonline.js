@@ -18,6 +18,8 @@ var pages = [
 "https://stramingmovieonline.blogspot.com/2020/03/klik-bait.html",
 "https://stramingmovieonline.blogspot.com/2020/03/dog-funny.html",
  "https://stramingmovieonline.blogspot.com/2020/11/dampak-buruk-tetap-bertahan-dengan.html",
+  "https://stramingmovieonline.blogspot.com/2020/11/waspada-inilah-penyakit-kulit-menular.html",
+ "https://stramingmovieonline.blogspot.com/2020/11/mengenal-almond-oil-dan-ini-manfaat.html",
 
 
 ];
