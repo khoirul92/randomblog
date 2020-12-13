@@ -7,6 +7,7 @@ var pages = [
 "https://bussines.clickjenar.site/2020/10/axa-sells-ukraine-insurance-business-to.html",
 "https://bussines.clickjenar.site/2020/10/car-insurance-shock-this-common-error.html",
 "https://bussines.clickjenar.site/2020/10/it-just-got-much-cheaper-to-visit-north.html",
+ "https://bussines.clickjenar.site/2020/12/cara-memulai-bisnis-tanpa-modal-di-2021.html",
 
 
 ];
