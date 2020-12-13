@@ -1,4 +1,5 @@
 var pages = [
+"https://www.clickjenar.site/2020/12/wanita-dengan-kriteria-seperti-ini-yang.html",
 "https://www.clickjenar.site/2020/04/funny-hijab-tiktok.html",
 "https://www.clickjenar.site/2020/04/fishing-shark.html",
 "https://www.clickjenar.site/2020/04/5-macam-penghalang-rezeki-yang-jarang.html",
