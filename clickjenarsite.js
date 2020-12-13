@@ -21,6 +21,7 @@ var pages = [
 "https://www.clickjenar.site/2020/10/jika-mengalami-tanda-ini-lebih-baik.html",
 "https://www.clickjenar.site/2020/10/manfaat-memiliki-pasangan-cuek-yang.html",
 "https://www.clickjenar.site/2020/10/tidak-sembarangan-ini-telat-datang.html",
+  "https://bussines.clickjenar.site/2020/12/cara-memulai-bisnis-tanpa-modal-di-2021.html",
 
 
 ];
