@@ -34,6 +34,7 @@ var pages = [
 "https://minimalisthousedesign77.blogspot.com/2020/06/funny-kungfu-cat.html",
 "https://minimalisthousedesign77.blogspot.com/2020/12/istri-pasti-tahu-kalau-suaminya.html",
 "https://minimalisthousedesign77.blogspot.com/2020/11/ini-yang-membuat-seseorang-bersikap.html",
+ "https://minimalisthousedesign77.blogspot.com/2020/12/jangan-ceritakan-5-hal-ini-kepada.html",
 ];
 function randomPage() {
 return pages[Math.round(Math.random() * (pages.length - 1,2,3))];
