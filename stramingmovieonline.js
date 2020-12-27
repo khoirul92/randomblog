@@ -22,6 +22,9 @@ var pages = [
  "https://stramingmovieonline.blogspot.com/2020/11/mengenal-almond-oil-dan-ini-manfaat.html",
  "https://stramingmovieonline.blogspot.com/2020/12/bukan-bumbu-dapur-biasa-ternyata-garam.html",
  "https://stramingmovieonline.blogspot.com/2020/11/menikah-itu-bukan-hanya-saling.html",
+  "https://stramingmovieonline.blogspot.com/2020/12/lakukan-5-hal-ini-agar-nyaman-dan-akur.html",",
+  "https://stramingmovieonline.blogspot.com/2020/12/hindari-5-hal-ini-biar-rambut-tidak.html",
+ 
 
 
 ];
